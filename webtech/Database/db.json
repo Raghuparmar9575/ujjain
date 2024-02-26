@@ -1,0 +1,84 @@
+{
+  "Post": [
+    {
+      "name": "raghu ",
+      "lname": "parmar",
+      "gender": "Male",
+      "bgroup": "B+",
+      "dob": "2000-01-06",
+      "ldate": "",
+      "mobile": 9575063475,
+      "address": "Ashta / ujjain",
+      "distric": "sehore",
+      "state": "mp",
+      "id": 2
+    },
+    {
+      "name": "admin",
+      "lname": "xyz",
+      "gender": "Male",
+      "bgroup": "AB+",
+      "dob": "2001-11-11",
+      "ldate": "2023-09-16",
+      "mobile": 9787765676,
+      "address": "indore",
+      "distric": "Bhopal",
+      "state": "mp",
+      "id": 3
+    }
+  ],
+  "Posts": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": 9575063475,
+      "password": "112233",
+      "confirm_password": "112233",
+      "id": 2
+    },
+    {
+      "name": "Raghuveer Parmar",
+      "email": "Raghuparmar9575@email.com",
+      "mobile": 9575063475,
+      "password": "111111",
+      "confirm_password": "111111",
+      "id": 3
+    },
+    {
+      "name": "raghu parmar",
+      "email": "bp3161341@email.com",
+      "mobile": 9977779999,
+      "password": "123456",
+      "confirm_password": "123456",
+      "id": 4
+    }
+  ],
+  "request": [
+    {
+      "bgroup": "A+",
+      "units": "1",
+      "name": "vijay raj",
+      "gender": "Male",
+      "age": 34,
+      "mobile": 8778765676,
+      "rdate": "2024-02-26",
+      "address": "Govt Hospital",
+      "distric": "Ujjain",
+      "state": "Madhya Pradesh",
+      "id": 2
+    },
+    {
+      "bgroup": "A+",
+      "units": "3",
+      "name": "aaa",
+      "gender": "Female",
+      "age": 55,
+      "mobile": 7654323456,
+      "rdate": "2024-02-29",
+      "address": "My Indore",
+      "distric": "indore",
+      "state": "mp",
+      "id": 3
+    }
+  ]
+}
